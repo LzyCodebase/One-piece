@@ -7,5 +7,6 @@ public class Hello {
 		Date now=new Date();
 		System.out.println("hello world");
 		System.out.println(now);
+		
 	}
 }
